@@ -1,0 +1,2 @@
+# 25MCD10025_SameerShahi_25MCD_KAR_1_PracticalMST_CompetitiveCoding
+Practical MST of Competitive Coding
